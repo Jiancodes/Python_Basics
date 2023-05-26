@@ -233,7 +233,7 @@ import sandwichmaker as s
 s.make_a_sandwich('Honey Ham', 'Spinach', 'Tomato')
 s.make_a_sandwich('Angus Roast Beef', 'Avacado', 'Sun Dried Tomato')
 ```
-### 给函数一个别名\
+### 给函数一个别名
 ```python
 from sandwichmaker import make_a_sandwich as mas
 
