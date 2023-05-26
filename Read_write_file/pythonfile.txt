@@ -1,3 +1,0 @@
-This is a file.
-
-We can read it with python. 
